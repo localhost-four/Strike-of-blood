@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/9295aa13-41d9-4a67-91cc-e9feaa058e93)
+
 # Strike-of-blood
 Modification for a web page <br>
 This version allows you to use the material on all devices <br>
